@@ -1,0 +1,27 @@
+.heading{
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px grey;
+}
+.heading_div{
+    float: none;
+    background-color: rgb(148, 128, 240);
+    padding: 10px;
+    border-radius: 20px;
+    color: rgb(238, 241, 31);
+    box-shadow: 5px 10px 5px gray;
+}
+.heading_div2{
+    font-size: 18px;
+    
+}
+
+.heading_div2:hover .heading_div3{
+   visibility: visible;
+}
+.heading_div3{
+    font-size: 25px;
+    font-family: 'Dancing Script', cursive;
+    visibility: hidden;
+}
