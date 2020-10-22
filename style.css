@@ -25,3 +25,29 @@
     font-family: 'Dancing Script', cursive;
     visibility: hidden;
 }
+.result_para_tag{
+
+    box-shadow: 5px 5px 5px grey;
+    font-size: 18px;
+    margin-top: 10px;
+     
+}
+.copy_right_footer{
+    position: fixed;
+    color: rgb(40, 19, 231);
+    background-color: white;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Grenze Gotisch', cursive;
+
+}
+canvas{
+    border: 10px;
+    border-style: double;
+    border-color: rgb(190, 18, 61);
+    border-radius: 20px;
+    box-shadow : 5px 5px 5px black;
+    margin-top: 150px;
+}
